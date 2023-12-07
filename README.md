@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FaiyadBintu
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Python/Django
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently Network Security
 - 📫 How to reach me bintu.ete@gmail.com
 
 <!---
