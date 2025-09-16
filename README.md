@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaiyadBintu
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently Network Security
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently in Network and System Administration
 - 📫 How to reach me bintu.ete@gmail.com
 
 <!---
